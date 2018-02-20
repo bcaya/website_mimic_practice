@@ -1,0 +1,99 @@
+#heading{
+  text-align:center;
+}
+#main {
+  width: 1024px;
+}
+#topbar{
+  width:1024px;
+  background-color:#f0f8ff;
+  float:left;
+  border-color:black;
+  border: solid 1px;
+}
+#bottom{
+  margin: auto;
+    width: 100%;
+    padding: 100px;
+}
+td{
+  background-color: #d3d3d3;
+  text-align:center;
+  border:solid 1px;
+}
+.head_table{
+  padding: 2px;
+  background-color: #f0f8ff;
+  table-align: center;
+  width: 1024px;
+}
+.web_ratings{
+  width:1024px;
+  margin:20px;
+  text-align:center;
+  background-color: #d3d3d3;
+  border: solid 1px;
+}
+.titles{
+  width: 1024px;
+  height: 100px;
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 25px;
+}
+.lists{
+  width: 1024px;
+  margin-bottom: 85px;
+  
+}
+.section1, .section2{
+  width: 50%;
+  float:left;
+}
+
+ol{
+  width: 250px;
+  text-align:center;
+  float: left;
+}
+ul{
+  float: left;
+  text-align:center;
+  width: 250px;
+}
+.shapes{
+  width: 960px;
+}
+#circle{
+  width:200px;
+  height:200px;
+  background-color:#008100;
+  border:solid 2px;
+  border-radius:50%;
+  float:left;
+}
+#square{
+  width:200px;
+  height: 200px;
+  background-color:#810082;
+  border:solid 2px;
+  float: left;
+}
+#square2{
+  width:200px;
+  height: 200px;
+  border:solid 2px;
+  float:left;
+}
+#bunny{
+  width:200px;
+  height:200px;
+}
+
+.rectangle{
+  width: 33%;
+  margin-left: 10px;
+  margin-right: 10px;
+  border: 1px;
+  float: left;
+}

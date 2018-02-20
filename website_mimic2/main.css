@@ -1,0 +1,38 @@
+#container{
+  width: 1024px;
+  background-color: #808080;
+  height: 100%;
+  margin: 0;
+}
+
+h2, h3, p {
+  font-weight: bold;
+  text-align: center;
+}
+
+.subhead, .menu {
+  text-decoration: underline;
+}
+.menu{
+  font-weight: bold;
+  text-align: left;
+  float:left;
+  border: dotted 1px;
+}
+img {
+ display: block;
+ margin: 0 auto; 
+}
+#bottom{
+  float: left;
+}
+.box1 {
+  
+  float: left;
+  width: 48%
+}
+.box2{
+  border-left:solid 2px;
+  float:left;
+  width: 48%;
+}
